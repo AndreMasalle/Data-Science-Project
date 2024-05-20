@@ -1,3 +1,3 @@
-# Data Science Project
+# Project Promo For E-commerce
 
-Repositories ini berisi project yang telah saya buat yang didapatkan dari tugas,project bootcamp, maupun course 
+Mempridiksi apakah user-user yang sedang mengunjungi halaman web yang baru akan mengklik banner promo(ads)
