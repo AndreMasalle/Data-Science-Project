@@ -1,3 +1,3 @@
-# Data Science Project
+# Data Science Fundamental
 
-Repositories ini berisi project yang telah saya buat yang didapatkan dari tugas,project bootcamp, maupun course 
+Branch ini berisi beberapa project dasar data science
